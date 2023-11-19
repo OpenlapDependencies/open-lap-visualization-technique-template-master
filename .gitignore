@@ -1,0 +1,14 @@
+.env
+.env.*
+.idea/
+.settings
+.classpath
+.project
+.vscode
+**/.DS_Store
+
+/target/
+/ObjectStore/
+/bin/
+
+*.class
